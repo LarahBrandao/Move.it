@@ -1,7 +1,7 @@
 # Move.it
 
 <h3 align="center">
-    <img alt="" title="#logo" width="300px" src="public/assets/moveit.png">
+    <img alt="" title="#logo" width="600px" src="public/assets/moveit.png">
 </h3>
 
 <p align="center">
